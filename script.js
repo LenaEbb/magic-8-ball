@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 var magic8Ball = {};
 
-magic8Ball.listOfAnswers = ["I don’t think so...", "For sure!", "LOL", "In your dreams", "Nah..", "I wouldn't bet on it...", "WTF?", "You nuts..try again..", "YAAAAAAS!!" ];
+magic8Ball.listOfAnswers = ["No way Jose...", "Not in a million years", "It's happening!!", "For sure!", "LOL", "In your dreams", "Nah..", "I wouldn't bet on it", "WTF?", "You nuts..try again", "YAAAAAAS!!" ];
 
 magic8Ball.askQuestion = function(question){
 
